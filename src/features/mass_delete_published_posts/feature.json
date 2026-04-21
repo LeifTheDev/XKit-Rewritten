@@ -1,0 +1,10 @@
+{
+  "title": "Mass Published Post Deleter",
+  "description": "Delete published posts in bulk",
+  "icon": {
+    "class_name": "ri-lock-2-line",
+    "color": "white",
+    "background_color": "#9d318b"
+  },
+  "help": "https://github.com/AprilSylph/XKit-Rewritten/wiki/Features"
+}

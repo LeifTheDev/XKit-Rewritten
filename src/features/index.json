@@ -34,5 +34,6 @@
   "trim_reblogs",
   "tweaks",
   "vanilla_audio",
-  "vanilla_video"
+  "vanilla_video",
+  "mass_delete_published_posts"
 ]
